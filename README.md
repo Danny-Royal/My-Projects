@@ -1,8 +1,9 @@
-# Machine Learning Projects: Taxi Price and Sales Prediction
+# Machine Learning Projects: Taxi Price, Sales Prediction and Rice classification
 
 This repository contains machine learning projects focused on predictive modeling. It includes:
 1. **Chicago Taxi Price Prediction**: Predicting taxi ride prices using trip data.
 2. **Sales Prediction**: Forecasting sales based on historical and contextual data.
+3. **Rice Classification** Classification of different Species of Rice
 
 ---
 
